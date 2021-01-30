@@ -3,7 +3,6 @@ import firebase from "firebase";
 const firebaseApp = firebase.initializeApp ({
         apiKey: "AIzaSyBGlo3A8ERjakCG1l4NBgBp2SoiyCRRPpw",
         authDomain: "instagram-9031c.firebaseapp.com",
-        databaseURl: "https://instagram-9031c-default-rtdb.firebaseio.com/",
         projectId: "instagram-9031c",
         storageBucket: "instagram-9031c.appspot.com",
         messagingSenderId: "460222328390",
